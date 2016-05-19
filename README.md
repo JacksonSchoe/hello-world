@@ -1,2 +1,3 @@
 # hello-world
-first project
+Hello my name is Jackson and I currently attend carleton university.
+
